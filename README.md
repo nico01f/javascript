@@ -3,5 +3,5 @@
 ##Tuto
 Ejercicios en javascript
 
-##Node
-Ejercicio desarrollados en Node.js
+##Node.js
+Ejercicios desarrollados en Node.js
