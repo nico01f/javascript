@@ -4,7 +4,7 @@
 
 Documentación con `npm install -g javascripting`
 
-## node : node.js
+## node.js : node
 
 Documentación con: `npm install -g learnyounode`
 
