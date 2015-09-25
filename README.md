@@ -1,7 +1,6 @@
-#Javascript
 
-##Tuto
+##Dir manual
 Ejercicios en javascript
 
-##Node.js
-Ejercicios desarrollados en Node.js
+##Dir node
+Ejercicios desarrollados para node.js 
