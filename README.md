@@ -1,6 +1,10 @@
+#Repositorio de aprendizaje:
 
-##Dir manual
-Ejercicios en javascript
+## javascript : manual
 
-##Dir node
-Ejercicios desarrollados para node.js 
+Documentación con `npm install -g javascripting`
+
+## node : node.js
+
+Documentación con: `npm install -g learnyounode`
+
